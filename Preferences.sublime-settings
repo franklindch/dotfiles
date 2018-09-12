@@ -23,6 +23,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"GitGutter",
 		"Vintage"
 	],
 	"remember_open_files": false,
